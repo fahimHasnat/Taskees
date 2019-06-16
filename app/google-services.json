@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "39144460353",
+    "firebase_url": "https://taskees-f8d9b.firebaseio.com",
+    "project_id": "taskees-f8d9b",
+    "storage_bucket": "taskees-f8d9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39144460353:android:149a218d28da79b8",
+        "android_client_info": {
+          "package_name": "com.example.taskees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39144460353-964r7i4hin6crfsbl7ua4brqqbd480b4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taskees",
+            "certificate_hash": "e416ad8f1042844a2777474e55acb8e9e2af63da"
+          }
+        },
+        {
+          "client_id": "39144460353-67fl2hfd1q37i7t6nrcbd5phf349jm93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAXbaBz37dWJBEbdL8PAElTuqb4jxq-vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39144460353-67fl2hfd1q37i7t6nrcbd5phf349jm93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
